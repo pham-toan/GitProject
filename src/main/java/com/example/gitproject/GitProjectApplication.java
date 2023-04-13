@@ -14,5 +14,5 @@ public class GitProjectApplication {
 
 	int b = 1;
 
-	int c = 6;
+	int c = 5;
 }
