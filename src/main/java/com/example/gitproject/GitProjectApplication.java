@@ -10,5 +10,10 @@ public class GitProjectApplication {
 		SpringApplication.run(GitProjectApplication.class, args);
 		int number = 12;
 	}
+	int a = 1;
+	int d = 1;
 
+	int b = 1;
+
+	int c = 1;
 }
