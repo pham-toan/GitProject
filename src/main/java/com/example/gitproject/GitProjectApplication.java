@@ -8,7 +8,7 @@ public class GitProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitProjectApplication.class, args);
-		int number = 12;
+		int number = 14;
 	}
 
 }
